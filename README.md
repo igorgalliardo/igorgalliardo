@@ -1,5 +1,5 @@
 # 💫 Hi there I'm Igor Galliardo
-🔭 I’m currently working on my personal project Rei da Liga<br>👯 I’m looking to collaborate on Full Stack development community<br>🤝 I’m in transition of career, where I did discovery my passion for programming<br>🌱 I’m currently learning REACT, C# and Laravel<br>💬 Ask me about: <br>⚡ Fun fact: I love program in my free time
+🔭 I’m currently working on my personal project Rei da Liga<br>👯 I’m looking to collaborate on Full Stack development community<br>🤝 I’m in transition of career, where I did discovery my passion for programming<br>🌱 I’m currently learning REACT, C# and Laravel<br>💬 Ask me about: Anything :) <br>⚡ Fun fact: I love program in my free time
 
 
 ## 🌐 Socials:
